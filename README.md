@@ -1,0 +1,2 @@
+# diybus_b2s_verilog
+基于Verilog的原创单总线传输协议b2s
